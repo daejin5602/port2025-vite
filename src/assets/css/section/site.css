@@ -15,7 +15,6 @@
     color: var(--black100);
     border-bottom: 0.4vw solid var(--black100);
     margin-bottom: 100px;
-   
 }
 .site__title em{
     font-size: 1.25rem;
@@ -107,9 +106,9 @@
     text-transform: uppercase;
 }
 
-@media (max-width:800px) {
+@media (max-width:800px){
     .site__title{
-       width: 100%;
+        width: 100%;
         margin-bottom: 10vw;
         font-size: 30px;
         height: auto;
@@ -143,4 +142,4 @@
         margin-left: 5%;
         padding: 5px 0;
     }
-
+}
